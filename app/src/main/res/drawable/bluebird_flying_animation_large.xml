@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<animation-list android:id="@+id/selected" android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bluebird_wingdown_large" android:duration="150" />
+    <item android:drawable="@drawable/bluebird_wingup_large" android:duration="150" />
+</animation-list>
