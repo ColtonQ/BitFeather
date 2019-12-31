@@ -3,7 +3,7 @@ An 8-bit side-scrolling game.
 
 Use the arrow keys to help Sparrow and his friends collect feathers in this simple 8-bit arcade game. As you collect more feathers, more of Sparrow's friends will join the adventure. But don't miss a feather, or it's game over!
 
-Available on the Google Play Store: [google-play-store](https://play.google.com/store/apps/details?id=com.bubblejet.myapplication)
+Available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.bubblejet.myapplication)
 
 ![screenshot0](https://lh3.googleusercontent.com/zlIiO4Sf1p17FOCl3pNALRJgO_YmtSUbWD9GXyIP2_9-K3Mvl1y2V7Ldp0Nklixmmw=w1920-h932-rw)
 ![screenshot1](https://lh3.googleusercontent.com/Wz87Jo1Ym5qJQEEe_lktHF6k_tGaFFZeq_nCqXnDxQB9_rSkh64FjIW2lQrHed8P_zk=w1920-h932-rw)
